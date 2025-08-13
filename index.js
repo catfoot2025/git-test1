@@ -13,3 +13,7 @@ export const mul = (a,b) => {
 export const div = (a,b) => {
 	return a / b; 
 }
+
+export const sqrt = (a,b) => {
+	reurn a * b * b
+}
